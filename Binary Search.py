@@ -1,4 +1,5 @@
 #Binary Search algorithm implementation
+#Big O is Log2 N time
 
 def Binary_Search(list, item):
     low = 0
